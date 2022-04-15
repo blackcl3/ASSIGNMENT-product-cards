@@ -1,3 +1,31 @@
-body {
-  background-color: azure;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  height: 262px;  
+}
+
+.card { 
+  margin: 30px; 
+}
+
+.card-header {
+  border: solid 1px lightblue; 
+  text-align: center;
+}
+
+.card-text {
+  text-align: justify;  
+}
+
+li {
+  font-weight: bold;
+}
+
+.available {
+  width: 100%; 
+  background-color: darkgray;
+  color: yellow; 
 }

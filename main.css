@@ -34,3 +34,8 @@ li {
   background-color: darkgray;
   color: yellow; 
 }
+
+.sold-out {
+  position: absolute;
+  margin:95px 600px 95px -19px;
+}

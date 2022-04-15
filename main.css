@@ -16,8 +16,13 @@ img {
   text-align: center;
 }
 
+.card-title {
+  font-family: 'Roboto Slab', serif;
+}
+
 .card-text {
-  text-align: justify;  
+  text-align: justify; 
+  font-family: 'Nunito', sans-serif; 
 }
 
 li {
